@@ -53,3 +53,5 @@ Modelo mais antigo, amplamente utilizado. Função do clico da engenharia conven
 ### Modelo de Desenvolvimento Incremental
 
 Desenvolvimento parcial, com aumento gradual da complexidade do software e feedback entre etapas.
+
+<img width="665" alt="image" src="https://user-images.githubusercontent.com/28742636/166160327-c609923d-173d-47f7-a593-c93b2060ce40.png">
