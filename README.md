@@ -59,6 +59,13 @@ Desenvolvimento parcial, com aumento gradual da complexidade do software e feedb
 Cada incremento implementa uma nova _feature_, funciona bem com priorização MoSCoW (https://rockcontent.com/br/blog/metodo-moscow/).
 
 - Vantagens:
-  Custo reduzido de manutenção
-  Maior produtividade
+  Custo reduzido de manutenção (menos pessoas trabalhando)
+  Entregas parciais que facilitam a identificação de erros
+  Testes mais simples
+  Pontos não especificados podem ser vistos posteriormente
   Maior feedback dos clientes
+
+- Desvantagens:
+  Cada iteração deve ser pequena
+  Número de iterações não é controlado
+  Podem surgir problemas na arquitetura, pois nem tudo está especificado
