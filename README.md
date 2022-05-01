@@ -34,5 +34,7 @@ Representação simplificada de um processo de software.
 - Outros modelos: prototipação, Espiral, Baseado em Components.
 
 ### Modelo de Desenvolvimento Linear
-![untitled@2x (1)](https://user-images.githubusercontent.com/28742636/166158990-bd53eae6-67b8-4ccf-a737-9c3f9631d5f7.png)
 
+Modelo mais antigo, amplamente utilizado. Função do clico da engenharia convencional. Requer uma abordagem linear, sempre de frente para trás.
+
+![untitled@2x (1)](https://user-images.githubusercontent.com/28742636/166158990-bd53eae6-67b8-4ccf-a737-9c3f9631d5f7.png)
