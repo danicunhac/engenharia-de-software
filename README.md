@@ -3,6 +3,11 @@
 Área da engenharia e da computação voltada à **especificação**, **desenvolvimento**,
 **manutenção** e **criação** de _software_, com a aplicação de tecnologias e práticas de gerência de projetos e outras disciplinas, visando organização, produtividade e qualidade.
 
+### Processo de Desenvolvimento de Software
+
+- Abordam como desenvolver de forma eficiente e eficaz um software.
+- Permitem mensurar e medir resultados.
+
 ### O que é um **Processo de Software**?
 
 É um conjunto de atividades relacionadas que levam à produção de um produto de software
@@ -35,6 +40,16 @@ Representação simplificada de um processo de software.
 
 ### Modelo de Desenvolvimento Linear
 
-Modelo mais antigo, amplamente utilizado. Função do clico da engenharia convencional. Requer uma abordagem linear, sempre de frente para trás.
+Modelo mais antigo, amplamente utilizado. Função do clico da engenharia convencional. Requer uma abordagem linear, sempre de frente para trás. Melhor que nada.
 
 ![untitled@2x (1)](https://user-images.githubusercontent.com/28742636/166158990-bd53eae6-67b8-4ccf-a737-9c3f9631d5f7.png)
+
+- Desvantagens:
+  Apresenta baixo rendimento (retrabalho)
+  Modelo rígido
+  Tempo elevado para implementação
+  Ociosidade durante etapas de planejamento
+
+### Modelo de Desenvolvimento Incremental
+
+Desenvolvimento parcial, com aumento gradual da complexidade do software e feedback entre etapas.
