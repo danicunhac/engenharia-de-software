@@ -55,3 +55,10 @@ Modelo mais antigo, amplamente utilizado. Função do clico da engenharia conven
 Desenvolvimento parcial, com aumento gradual da complexidade do software e feedback entre etapas.
 
 <img width="665" alt="image" src="https://user-images.githubusercontent.com/28742636/166160327-c609923d-173d-47f7-a593-c93b2060ce40.png">
+
+Cada incremento implementa uma nova _feature_, funciona bem com priorização MoSCoW (https://rockcontent.com/br/blog/metodo-moscow/).
+
+- Vantagens:
+  Custo reduzido de manutenção
+  Maior produtividade
+  Maior feedback dos clientes
